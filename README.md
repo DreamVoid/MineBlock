@@ -4,8 +4,6 @@ MineBlock 是一个 Minecraft 第三方服务器，其所有者为Flying Team。
 可以在游戏内输入 mc.mineblock.ml 以连接到 MineBlock 服务器
 
 ## 网站
-这个仓库现已不再使用，因为我们已将网站迁移到更高级的服务器，这里仅作留档和URL转发
-
 以下是 MineBlock 的所有网站：
 
 * 主站：https://www.mineblock.ml
