@@ -6,13 +6,11 @@ MineBlock 是一个 Minecraft 第三方服务器，其所有者为Flying Team。
 ## 网站
 以下是 MineBlock 的所有网站：
 
-* 主站：https://www.mineblock.ml
-* 商店：https://store.mineblock.ml
-* 文库：https://docs.mineblock.ml
-* 封禁列表：https://banlist.mineblock.ml
-* 卫星地图：http://map.mineblock.ml
-
-除卫星地图站点外，其余站点均已启用SSL证书，请注意使用https访问站点保障安全
+* 主站：https://www.mineblock.cc
+* 商店：https://store.mineblock.cc
+* 文库：https://docs.mineblock.cc
+* 封禁列表：https://banlist.mineblock.cc
+* 卫星地图：https://map.mineblock.cc
 
 ## 连接地址
 以下是 MineBlock 所有可用于服务器连接的地址：
@@ -31,6 +29,6 @@ MineBlock 是一个 Minecraft 第三方服务器，其所有者为Flying Team。
 
 * MCBBS：https://www.mcbbs.net/thread-986074-1-1.html 
 * MCMOD：https://play.mcmod.cn/sv20184296.html 
-* 服务器贴吧（不维护）：https://tieba.baidu.com/p/6710618840 
+* 贴吧（不维护）：https://tieba.baidu.com/p/6710618840 
 * MineBBS（不维护）：https://www.minebbs.com/threads/mineblock.4107/ 
 * 我的世界中文站（不维护）：https://www.minecraftzw.com/10118.html
