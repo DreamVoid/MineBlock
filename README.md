@@ -1,7 +1,7 @@
 # MineBlock
 MineBlock 是一个 Minecraft 第三方服务器，其所有者为Flying Team。
 
-可以在游戏内输入 mc.mineblock.ml 以连接到 MineBlock 服务器
+可以在游戏内输入 mc.mineblock.cc 以连接到 MineBlock 服务器
 
 ## 网站
 以下是 MineBlock 的所有网站：
@@ -15,12 +15,12 @@ MineBlock 是一个 Minecraft 第三方服务器，其所有者为Flying Team。
 ## 连接地址
 以下是 MineBlock 所有可用于服务器连接的地址：
 
-* 主线路1：mc.mineblock.ml
-* 主线路2：play.mineblock.ml
-* 电信：dx.mineblock.ml
-* 移动：yd.mineblock.ml
-* 联通：wt.mineblock.ml
-* 教育网：edu.mineblock.ml
+* 主线路1：mc.mineblock.cc
+* 主线路2：play.mineblock.cc
+* 电信：dx.mineblock.cc
+* 移动：yd.mineblock.cc
+* 联通：wt.mineblock.cc
+* 教育网：edu.mineblock.cc
 
 请注意，以上解析线路对缓解延迟**没有**帮助，仅供部分玩家无法解析主线路而备用（连接时出现*Unknown host*）。如果您可以正常解析主线路，请**不要**使用其他线路。
 
