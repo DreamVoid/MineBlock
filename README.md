@@ -1,3 +1,8 @@
+# 停止维护公告
+我们已搬迁至新的网站，当前仓库不再维护。
+
+请直接访问 https://www.mineblock.cc 浏览新网站
+
 # MineBlock
 MineBlock 是一个 Minecraft 第三方服务器，其所有者为Flying Team。
 
@@ -16,11 +21,6 @@ MineBlock 是一个 Minecraft 第三方服务器，其所有者为Flying Team。
 以下是 MineBlock 所有可用于服务器连接的地址：
 
 * 主线路1：mc.mineblock.cc
-* 主线路2：play.mineblock.cc
-* 电信：dx.mineblock.cc
-* 移动：yd.mineblock.cc
-* 联通：wt.mineblock.cc
-* 教育网：edu.mineblock.cc
 
 请注意，以上解析线路对缓解延迟**没有**帮助，仅供部分玩家无法解析主线路而备用（连接时出现*Unknown host*）。如果您可以正常解析主线路，请**不要**使用其他线路。
 
@@ -29,6 +29,5 @@ MineBlock 是一个 Minecraft 第三方服务器，其所有者为Flying Team。
 
 * MCBBS：https://www.mcbbs.net/thread-986074-1-1.html 
 * MCMOD：https://play.mcmod.cn/sv20184296.html 
-* 贴吧（不维护）：https://tieba.baidu.com/p/6710618840 
-* MineBBS（不维护）：https://www.minebbs.com/threads/mineblock.4107/ 
+* MineBBS：https://www.minebbs.com/threads/mineblock.4107/ 
 * 我的世界中文站（不维护）：https://www.minecraftzw.com/10118.html
